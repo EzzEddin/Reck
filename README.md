@@ -1,7 +1,15 @@
 # Reck
 Reck is a web application that can recognize and detect faces through Clarifai API Face Detection Model
 
+## Demos
+![reck-bg](https://user-images.githubusercontent.com/11898152/77807403-67f60780-7090-11ea-98f4-74cf9222a0ae.png)
 
+1. One face detected
+![reck-steve](https://user-images.githubusercontent.com/11898152/77807296-1483b980-7090-11ea-9b7a-da8e263d5254.png)
+2. Multiple faces detected
+![reck-solvay](https://user-images.githubusercontent.com/11898152/77807369-4d239300-7090-11ea-9b5e-ccfdb42f7ce2.png)
+3. No faces
+![reck-landscape](https://user-images.githubusercontent.com/11898152/77807396-60cef980-7090-11ea-955d-0accad8f3c6a.png)
 ## How to use Reck
 1. Clone this project and cd into the Reck folder:
 ```
