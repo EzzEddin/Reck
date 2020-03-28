@@ -27,4 +27,4 @@ $ npm start
 
 
 ## Acknowledgements
-The front-end of React.js used in this project is inspired by [Andrei Neagoie](https://github.com/aneagoie/face-recognition-brain) and detecting multiple faces is inspired by [dominikbn](https://github.com/dominikbn/smart-brain). I also thank my friends [Nour](https://github.com/noureddin) and Mohamed Adel who helped me with better ideas of UI.
+The front-end of React.js used in this project is inspired by [Andrei Neagoie](https://github.com/aneagoie/face-recognition-brain) and detecting multiple faces is inspired by [dominikbn](https://github.com/dominikbn/smart-brain). I also thank my friends [Nour](https://github.com/noureddin) and [Mohamed Adel](https://www.behance.net/abuhuraira_ma) who helped me with better ideas of UI.
