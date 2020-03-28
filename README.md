@@ -2,6 +2,7 @@
 Reck is a web application that can recognize and detect faces through Clarifai API Face Detection Model
 
 ## Demos
+Reck demo is on my [youtube channel](https://www.youtube.com/watch?v=ZHx_LaP4TuY)
 ![reck-bg](https://user-images.githubusercontent.com/11898152/77807403-67f60780-7090-11ea-98f4-74cf9222a0ae.png)
 
 1. One face detected
