@@ -15,8 +15,7 @@ Reck demo is on my [youtube channel](https://www.youtube.com/watch?v=ZHx_LaP4TuY
 ## Personal Demos
 ![slack-pic-apl](https://user-images.githubusercontent.com/11898152/78292782-dff87d80-7527-11ea-9140-ddafa8bd7d4f.png)
 
-![IMG_20200401_220452](https://user-images.githubusercontent.com/11898152/78293275-a07e6100-7528-11ea-819f-3db95c91ffd3.jpg)
-
+![slack-pic-apl2](https://user-images.githubusercontent.com/11898152/78294052-f56ea700-7529-11ea-808f-2998e0488d87.png)
 
 ## How to use Reck
 1. Clone this project and cd into the Reck folder:
